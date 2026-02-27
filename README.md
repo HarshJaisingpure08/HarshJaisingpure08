@@ -3,7 +3,7 @@
 <h3 align="center">🚀 AI & ML Enthusiast | CS (AI) Undergrad | Builder & Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Explorer;Deep+Learning+%7C+DSA+%7C+Cloud;Building+Projects+That+Solve+Real+Problems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=GEN+%26+AI+Explorer;Web+Developer+%7C+DSA+%7C;Building+Projects+That+Solve+Real+Problems" />
 </p>
 
 ---
