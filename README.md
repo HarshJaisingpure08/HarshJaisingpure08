@@ -12,9 +12,9 @@
 
 <ul>
   <li>🔭 <b>Currently working on:</b> AI &amp; ML projects and real-world problem solving</li>
-  <li>👯 <b>Looking to collaborate on:</b> Machine Learning, Deep Learning &amp; Open Source</li>
+  <li>👯 <b>Looking to collaborate on:</b> Hackathons, New Technologies &amp; Open Source</li>
   <li>🤝 <b>Need help with:</b> MLOps, scalable AI systems &amp; system design</li>
-  <li>🌱 <b>Currently learning:</b> Deep Learning, DSA &amp; Cloud Technologies</li>
+  <li>🌱 <b>Currently learning:</b> Gen-AI, DSA &amp; Full Stack Development.</li>
   <li>💬 <b>Ask me about:</b> Python, MERN basics, AI/ML, problem solving</li>
   <li>⚡ <b>Fun fact:</b> I love turning ideas into real projects 🚀</li>
 </ul>
