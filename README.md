@@ -1,7 +1,18 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<h1>💫 About Me</h1>
 
+<ul>
+  <li>🔭 <b>I’m currently working on:</b> AI &amp; ML projects, building practical applications, and experimenting with real-world problem solving</li>
 
+  <li>👯 <b>I’m looking to collaborate on:</b> Machine Learning, Deep Learning, Open Source, and innovative startup ideas</li>
+
+  <li>🤝 <b>I’m looking for help with:</b> MLOps, scalable AI systems, and improving system design skills</li>
+
+  <li>🌱 <b>I’m currently learning:</b> Deep Learning, Data Structures &amp; Algorithms, and Cloud technologies</li>
+
+  <li>💬 <b>Ask me about:</b> Python, MERN stack basics, AI/ML concepts, and problem-solving strategies</li>
+
+  <li>⚡ <b>Fun fact:</b> I enjoy turning ideas into projects and learning by building 🚀</li>
+</ul>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-jaisingpure-929a80277) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/HarshHarsh08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:JAISINGPURE.HARSH08@GMAIL.COM) 
 
