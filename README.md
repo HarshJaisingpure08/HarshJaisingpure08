@@ -49,11 +49,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HarshJaisingpure08&theme=tokyonight&hide_border=true" />
-</p>
 
 
 
