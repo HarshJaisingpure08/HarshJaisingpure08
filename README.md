@@ -52,8 +52,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshJaisingpure08&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=HarshJaisingpure08&theme=tokyonight&hide_border=true" />
 </p>
+
 
 
 
