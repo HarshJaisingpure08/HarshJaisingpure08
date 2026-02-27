@@ -55,20 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HarshJaisingpure08&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HarshJaisingpure08&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshJaisingpure08&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=HarshJaisingpure08&icon=5&color=6" />
-</p>
-
----
 
 <h3 align="center">⭐️ Always learning, always building.</h3>
